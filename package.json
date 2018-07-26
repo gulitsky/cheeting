@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "^9.3.2"
+  }
+}
